@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(135deg, #f0f8ff, #e6f7ff);
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  background-color: white;
+  border: none;
+  border-radius: 1rem;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+label {
+  cursor: pointer;
+}
